@@ -1,0 +1,15 @@
+C:\Users\nyxki\OneDrive\Рабочий стол\One_day_in_a_lifetime_TheGame\obj\Debug\net7.0\One_day_in_a_lifetime_TheGame.csproj.AssemblyReference.cache
+C:\Users\nyxki\OneDrive\Рабочий стол\One_day_in_a_lifetime_TheGame\obj\Debug\net7.0\One_day_in_a_lifetime_TheGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyxki\OneDrive\Рабочий стол\One_day_in_a_lifetime_TheGame\obj\Debug\net7.0\One_day_in_a_lifetime_TheGame.AssemblyInfoInputs.cache
+C:\Users\nyxki\OneDrive\Рабочий стол\One_day_in_a_lifetime_TheGame\obj\Debug\net7.0\One_day_in_a_lifetime_TheGame.AssemblyInfo.cs
+C:\Users\nyxki\OneDrive\Рабочий стол\One_day_in_a_lifetime_TheGame\obj\Debug\net7.0\One_day_in_a_lifetime_TheGame.csproj.CoreCompileInputs.cache
+C:\Users\nyxki\OneDrive\Рабочий стол\One_day_in_a_lifetime_TheGame\bin\Debug\net7.0\One_day_in_a_lifetime_TheGame.exe
+C:\Users\nyxki\OneDrive\Рабочий стол\One_day_in_a_lifetime_TheGame\bin\Debug\net7.0\One_day_in_a_lifetime_TheGame.deps.json
+C:\Users\nyxki\OneDrive\Рабочий стол\One_day_in_a_lifetime_TheGame\bin\Debug\net7.0\One_day_in_a_lifetime_TheGame.runtimeconfig.json
+C:\Users\nyxki\OneDrive\Рабочий стол\One_day_in_a_lifetime_TheGame\bin\Debug\net7.0\One_day_in_a_lifetime_TheGame.dll
+C:\Users\nyxki\OneDrive\Рабочий стол\One_day_in_a_lifetime_TheGame\bin\Debug\net7.0\One_day_in_a_lifetime_TheGame.pdb
+C:\Users\nyxki\OneDrive\Рабочий стол\One_day_in_a_lifetime_TheGame\obj\Debug\net7.0\One_day_in_a_lifetime_TheGame.dll
+C:\Users\nyxki\OneDrive\Рабочий стол\One_day_in_a_lifetime_TheGame\obj\Debug\net7.0\refint\One_day_in_a_lifetime_TheGame.dll
+C:\Users\nyxki\OneDrive\Рабочий стол\One_day_in_a_lifetime_TheGame\obj\Debug\net7.0\One_day_in_a_lifetime_TheGame.pdb
+C:\Users\nyxki\OneDrive\Рабочий стол\One_day_in_a_lifetime_TheGame\obj\Debug\net7.0\One_day_in_a_lifetime_TheGame.genruntimeconfig.cache
+C:\Users\nyxki\OneDrive\Рабочий стол\One_day_in_a_lifetime_TheGame\obj\Debug\net7.0\ref\One_day_in_a_lifetime_TheGame.dll

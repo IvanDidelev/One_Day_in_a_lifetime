@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "One_day_in_a_lifetime_TheGame/1.0.0": {
+        "runtime": {
+          "One_day_in_a_lifetime_TheGame.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "One_day_in_a_lifetime_TheGame/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
